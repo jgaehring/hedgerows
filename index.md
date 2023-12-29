@@ -237,6 +237,64 @@ had carved out niche careers straddling both open technology and small-scale
 agriculture, spanning decades in some cases, yet few of us had more than a
 cursory knowledge of the history of the commons predating the Information Age.
 
+As I researched the topic further I found that the history was not quite as
+distant as I thought, nor was it an isolated episode of English history alone.
+
+<!-- TODO: Close the circuit here & link to enclosure, ejidos, usufruct, etc. -->
+
+Nicholas Georgescu-Roegen, "The Institutional Aspects of Peasant Communities: An
+Analytical View" (1965):
+
+> Another institution sets in even stronger light the idea that land is to be
+> used, not to be owned by exclusion. It is the custom called "open field
+> pasture" in England, _vaine pâture_ in France and _Gemenglad der Felder_ in
+> Germany. According to it, after harvest all fields are opened for pasture to
+> everyone's cattle and remain so until the next tilling. Once the practice was
+> common to all European countries; it survived in many parts of Western Europe
+> well into our own time.
+
+Open field agriculture was prevalent in Ireland, too, where it was called
+rundale, until those farmers were dispossessed by English settlers and the
+plantation system, starting in the 1580's. This was an important proving ground
+for Britain's colonial methods, which they would later perfect in the
+expropriation of the Americas' common landholdings, from Virginia to Belize. In
+the Scottish Highlands, the similarly named run-rig system continued through the
+late 18th century, coinciding with the Scottish Enlightenment that produced _The
+Wealth of Nations_ and a wave of land privatization consistent with that book's
+core tenets. Today, the village of Laxton, Nottinghamshire, retains the last
+open field system in England. Three fields are still held in common ownership,
+little changed from detailed maps of the area from 1635. A fourth field was lost
+only in 1903, during the final era of Parliamentary enclosure. The farmers of
+Laxton — in a sophisticated practice combining regular crop rotation and fallow
+periods, intermittent grazing and permanent pasture lanes — are apportioned
+strips of land from each of the fields, a tradition that has likely endured for
+over half a millennium.[^laxton]
+
+[^laxton]: http://www.laxtonvisitorcentre.org.uk/
+
+Elsewhere, the Russian _obshchina_ or _mir_[^mir] persisted in its medieval form
+as late as 1861, when Tsar Alexander II emancipated the serfs. It has even been
+argued that a kernel of communal land practice held out until the Soviet Union
+undertook collectivization in the 1920's. In Mexico, the revolutionary
+Constitution of 1917 and subsequent land reforms of Lázaro Cárdenas established
+the system of _ejidos_. These remained largely in tact until the relevant
+articles of the constitution, which blocked the sale of communal lands to
+foreign investors, were repealed at the behest of neoliberal policy makers in
+the interest of ratifying NAFTA. The Zapatista uprising was launched the day
+NAFTA took effect on January 1, 1994, and to this day the EZLN defends the
+communal lands of Chiapas from further enclosures. This is all to say nothing of
+the indigenous land practices which have successfully resisted colonial
+encroachment and land enclosures for centuries across the globe, but I feel
+ill-equipped to speak to that vast history of struggle.
+
+[^mir]: This is indeed the same name given to the Russian space station _Мир_ in
+    1986, although the term has a broader meaning that carries with it the sense
+    of "world," "planet" and "peace". See _Afterburner_, ["Space Station ´Mir´ –
+    the symbol of Soviet supremacy in space, that reconciliated
+    nations"](https://afterburner.com.pl/space-station-mir-the-symbol-of-soviet-supremacy-in-space-that-reconciliated-nations/).
+    Also, Robert Ellickson backs up that _miri_ were still in practice as
+    late as Stalin's collectivization ("Property in Land" p. 1393)
+
 The metaphor of "the commons" has become so pervasive in technology today. The
 first time I recall encountering it was from the Free Culture Movement of the
 early and mid-2000's. Its most prominent manifestation came in the form of

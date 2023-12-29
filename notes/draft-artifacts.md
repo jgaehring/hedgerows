@@ -10,6 +10,7 @@ Technology and open source software became deeply politicized for me in 2012 in
 a way that food and farming had never been.
 
 ## Medieval Commons and Their Holdovers
+<!-- TODO: Delete this if it's fully incorporated and no longer needed. -->
 Nicholas Georgescu-Roegen, "The Institutional Aspects of Peasant Communities: An
 Analytical View" (1965):
 
